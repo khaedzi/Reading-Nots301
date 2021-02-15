@@ -14,7 +14,7 @@
 |No   | Title |
  |-----|------|
  |one  | [PAIR PROGRAMMING](https://khaedzi.github.io/Reading-Nots301/PAIR-PROGRAMMING)
- | two| []()
+ | two| [Flexbox and Templating](https://khaedzi.github.io/Reading-Nots301/Flexbox and Templating)
  |three| []()                                          |
  |four | []() 
  |five  |[]( ) 
