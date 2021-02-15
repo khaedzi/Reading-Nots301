@@ -13,8 +13,8 @@
 
 |No   | Title |
  |-----|------|
- |one  | [PAIR PROGRAMMING](https://khaedzi.github.io/Reading-Nots301/PAIR-PROGRAMMING)
- | two| [Flexbox and Templating](https://khaedzi.github.io/Reading-Nots301/Flexbox and Templating)
+ |one  | [PAIR PROGRAMMING](https://khaedzi.github.io/Reading-Nots301/PAIR-PROGRAMMING)|
+ | two| [Flexbox and Templating](https://khaedzi.github.io/Reading-Nots301/FlexboxandTemplating)|
  |three| []()                                          |
  |four | []() 
  |five  |[]( ) 
