@@ -15,7 +15,7 @@
  |-----|------|
  |one  | [PAIR PROGRAMMING](https://khaedzi.github.io/Reading-Nots301/PAIR-PROGRAMMING)|
  | two| [Flexbox and Templating](https://khaedzi.github.io/Reading-Nots301/FlexboxandTemplating)|
- |three| [Responsi Web DesignAnd Regular Expressions](https://khaedzi.github.io/Reading-Nots301/Responsi WebDesignAndRegularExpressions)                                          |
+ |three| [Responsi Web DesignAnd Regular Expressions](https://khaedzi.github.io/Reading-Nots301/Responsi WebDesignAndRegularExpressions)|                                          
  |four | []() 
  |five  |[]( ) 
  |six | []()
