@@ -8,14 +8,15 @@
 * [Reading-Nots201](https://khaedzi.github.io/Reading-Nots201/)
 
 
-# The Reading-Nots301 :
-
+# The Reading-Nots301 :HerokuDeployment
 
 |No   | Title |
  |-----|------|
  |one  | [PAIR PROGRAMMING](https://khaedzi.github.io/Reading-Nots301/PAIR-PROGRAMMING)|
  | two| [Flexbox and Templating](https://khaedzi.github.io/Reading-Nots301/FlexboxandTemplating)|
- | three| [Responsiv-Web-Design-And-Regular-Expressions](https://khaedzi.github.io/Reading-Nots301/Responsiv-Web-Design-And-Regular-Expressions)|                                         
+ | three| [Responsiv-Web-Design-And-Regular-Expressions](https://khaedzi.github.io/Reading-Nots301/Responsiv-Web-Design-And-Regular-Expressions)|
+  |four| [Responsiv-Web-Design-And-Regular-Expressions](https://khaedzi.github.io/Reading-Nots301/HerokuDeployment)|
+
  |four | []() 
  |five  |[]( ) 
  |six | []()
