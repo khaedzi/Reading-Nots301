@@ -22,6 +22,7 @@
   |eight| [FUNCTIONAL-PROGRAMMING](https://khaedzi.github.io/Reading-Nots301/FUNCTIONAL-PROGRAMMING)|
   |nine| [THECALLSTACK](https://khaedzi.github.io/Reading-Nots301/THECALLSTACK)|
   |ten| [EJS](https://khaedzi.github.io/Reading-Nots301/EJS)|
+  |eleven| [EJS PARTIALS](https://khaedzi.github.io/Reading-Nots301/EJSPARTIALS)|
  
  
  
