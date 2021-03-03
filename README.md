@@ -24,10 +24,10 @@
   |ten| [EJS](https://khaedzi.github.io/Reading-Nots301/EJS)|
   |eleven| [EJS PARTIALS](https://khaedzi.github.io/Reading-Nots301/EJSPARTIALS)|
   |towilve| [Update/Delete](https://khaedzi.github.io/Reading-Nots301/Update/Delete)|
+  |therteen| [ DB Normalization](https://khaedzi.github.io/Reading-Nots301/DBNormalization)|
  
  
  
 
   
 
- 
