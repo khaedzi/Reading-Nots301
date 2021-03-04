@@ -25,7 +25,7 @@
   |eleven| [EJS PARTIALS](https://khaedzi.github.io/Reading-Nots301/EJSPARTIALS)|
   |towilve| [Update/Delete](https://khaedzi.github.io/Reading-Nots301/Update/Delete)|
   |therteen| [ DB Normalization](https://khaedzi.github.io/Reading-Nots301/DBNormalization)|
- 
+ |fourteen| [Diversity and Inclusion](https://khaedzi.github.io/Reading-Nots301/DiversityandInclusion)|
  
  
 
